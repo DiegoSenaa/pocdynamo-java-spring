@@ -1,0 +1,8 @@
+aws:
+  dynamodb:
+    secretKey: 'XPTO'
+    accessKey: 'XPTO'
+    endpoint: https://dynamodb.us-east-1.amazonaws.com
+  region: us-east-1
+server:
+  port: '8081'
